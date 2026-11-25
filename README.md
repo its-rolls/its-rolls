@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
-
+<P> nothing great comes easy</P>
 ###
 
 <div data-importer="socials" align="center">
