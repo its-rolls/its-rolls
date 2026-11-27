@@ -131,7 +131,7 @@ I am a Mathematics and Computer Science undergraduate driven by the intersection
 
 ## 📫 Let's Connect
 
-- **GitHub:** [@YOUR_USERNAME](https://github.com/its-rolls)
+- **GitHub:** [@its-rolls](https://github.com/its-rolls)
 - **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
 - **Email:** [your.email@example.com](mailto:rodneynjiru275@gmail.com)
 
