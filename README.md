@@ -133,7 +133,7 @@ I am a Mathematics and Computer Science undergraduate driven by the intersection
 
 - **GitHub:** [@its-rolls](https://github.com/its-rolls)
 - **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- **Email:** [your.email@example.com](mailto:rodneynjiru275@gmail.com)
+- **Email:** [rodneynjiru275@gmail.com](mailto:rodneynjiru275@gmail.com)
 
 <div align="center">
   <sub>"In God we trust; all others must bring data — and cryptographic proof."</sub>
