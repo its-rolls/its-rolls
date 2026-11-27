@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rodney Njiru 👋
 
 ### Data Science & Machine Learning Enthusiast | Cybersecurity Practitioner | Systems & Software Developer
 
-[![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub Followers](https://img.shields.io/github/followers/its-rolls?label=Follow&style=social)](https://github.com/its-rolls)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
