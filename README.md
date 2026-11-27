@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Rodney Njiru 👋
+# Hi there, I'm Rodney 👋
 
 ### Data Science & Machine Learning Enthusiast | Cybersecurity Practitioner | Systems & Software Developer
 
